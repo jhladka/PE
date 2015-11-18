@@ -1,4 +1,5 @@
 #!/usr/bin/python
+
 """
 It is possible to write ten as the sum of primes in exactly five different ways:
 7 + 3
