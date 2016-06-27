@@ -17,5 +17,5 @@ for g in xrange(3,G+1) :
 		S += s
 	n[0] = sum(n)
 	S += n[0]
-	N = n
+	N = n[:]
 	print g, S
